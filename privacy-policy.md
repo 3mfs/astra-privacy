@@ -2,7 +2,6 @@
    title: Privacy Policy
    permalink: /privacy-policy/
    ---
-
 # Astra Privacy Policy
 
 **Effective date: October 7, 2026**
